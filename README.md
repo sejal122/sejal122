@@ -3,11 +3,11 @@
 🔥 Tech Stack & Expertise:
 Frontend: React.js, Next.js, TailwindCSS
 Backend: Node.js, Express.js
-Database: MongoDB, Firebase
-AI Integration: OpenAI API, LangChain, Hugging Face, TensorFlow.js
-State Management: Redux, Zustand
-Cloud & DevOps: AWS, Vercel, Docker
-Other: REST APIs, GraphQL, WebSockets
+Database: MongoDB, Firebase,supabase
+AI Integration: OpenAI API, LangChain, Hugging Face
+State Management: Redux, 
+Other: REST APIs,  WebSockets
+
 🚀 Top Projects:
 🔍 Smart Recipe Finder – AI-powered recipe app that suggests meals based on fridge images. (MERN + OpenAI)
 
